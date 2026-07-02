@@ -52,7 +52,9 @@ Executive, Operations, and Risk Users
 
 The architecture diagram has been added to the repository.
 
-Dashboard screenshots will be added after the portfolio version of the Power BI report is sanitized.
+### Power BI Dashboard
+
+![Power BI Dashboard Screenshot](power-bi/dashboard-screenshot.png)
 
 ## Demo
 
