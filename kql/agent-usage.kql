@@ -1,0 +1,3 @@
+AgentTelemetry
+| summarize TotalRequests = count() by agent_name
+| order by TotalRequests desc
