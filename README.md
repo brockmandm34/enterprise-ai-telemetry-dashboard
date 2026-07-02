@@ -28,6 +28,8 @@ The solution is designed to capture structured events from AI agents and transfo
 
 ## Architecture
 
+![Enterprise AI Telemetry Architecture](architecture/architecture-diagram.png)
+
 High-level flow:
 
 ```text
