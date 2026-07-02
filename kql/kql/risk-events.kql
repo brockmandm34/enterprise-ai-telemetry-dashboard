@@ -1,0 +1,4 @@
+AgentTelemetry
+| where risk_flag == true
+| summarize RiskEvents = count() by agent_name, request_type
+| order by RiskEvents desc
