@@ -52,12 +52,17 @@ Executive, Operations, and Risk Users
 
 The architecture diagram has been added to the repository.
 
-### Power BI Dashboard
+### Power BI Dashboard Screenshots
 
-![Power BI Dashboard Screenshot](power-bi/dashboard-screenshot.png)
+#### Executive Overview
 
-## Demo
+![Executive Overview](power-bi/Executive%20overview.png)
 
-Loom walkthrough: Coming soon
+#### AI Insights
 
+![AI Insights](power-bi/AI%20Insights.png)
+
+#### Forecasting
+
+![Forecasting](power-bi/Forecasting.png)
 Demo links will be tracked in [`media/demo-links.md`](media/demo-links.md).
