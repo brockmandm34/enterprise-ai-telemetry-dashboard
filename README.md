@@ -44,5 +44,11 @@ Azure Data Explorer
 KQL Queries
         ↓
 Power BI Dashboard
+
+**## Screenshots and Visuals**
+
+The architecture diagram has been added to the repository.
+
+Dashboard screenshots will be added after the portfolio version of the Power BI report is sanitized.
         ↓
 Executive, Operations, and Risk Users
