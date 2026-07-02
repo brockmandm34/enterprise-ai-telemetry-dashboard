@@ -1,0 +1,6 @@
+AgentTelemetry
+| summarize
+    AvgLatency = avg(latency_ms),
+    P95Latency = percentile(latency_ms, 95)
+    by agent_name
+| order by AvgLatency desc
