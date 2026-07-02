@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-06-01T14:22:00Z",
+  "agent_name": "Finance Operations Agent",
+  "session_id": "demo-session-001",
+  "user_department": "Finance",
+  "request_type": "policy_question",
+  "latency_ms": 1850,
+  "prompt_tokens": 642,
+  "completion_tokens": 318,
+  "estimated_cost_usd": 0.012,
+  "status": "success",
+  "risk_flag": false,
+  "feedback_score": 4
+}
